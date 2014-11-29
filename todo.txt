@@ -1,0 +1,5 @@
+To Do
+
+- implement BackgroundWorkder like: http://www.albahari.com/threading/part3.aspx#_BackgroundWorker
+- sort output by descending file size
+- add UI for deleting files
