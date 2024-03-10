@@ -10,7 +10,7 @@ This relies on the [.NET Desktop Runtime](https://dotnet.microsoft.com/en-us/dow
 
 ## Usage
 
-Choose your Source folder and hit go. As it searches it will display a running count of duplicate files and when it is complete the file listings will be shown. 
-You can select one or more files and click the **Delete Selected Files** button to remove them. You can also Cancel the run at any time and it will then show the duplicate files found up to that point.
+Choose your **Source** folder and hit go. As it searches it will display a running count of duplicate files and when it is complete the file listings will be shown. 
+You can select one or more files and click the **Delete Selected Files** button to remove them. You can also **Cancel** the run at any time and it will then show the duplicate files found up to that point.
 
 File comparison are doing using MD5 hashes, and if you select **Also Match Names** the file name must match too.
