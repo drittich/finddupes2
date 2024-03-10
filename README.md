@@ -10,7 +10,9 @@ Go to the [latest releases](https://github.com/drittich/finddupes2/releases/late
 
 ## Installation
 
-This relies on the [.NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) so you may need to install that first.
+>**Note:** This application relies on the [.NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) so you may need to install that first.
+
+Once you have downloaded the release, unzip the file to a folder of your choice, and then run the executable. If you need an application that can handle .7z files, you can use [7-zip](https://www.7-zip.org/download.html)
 
 ## Usage
 
