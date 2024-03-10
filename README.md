@@ -4,6 +4,10 @@ A Windows GUI utility for finding and optionally deleting duplicate files.
 
 ![image](https://github.com/drittich/finddupes2/assets/1222810/73bdf3b6-dc07-4331-b265-0ecdfc6765ef)
 
+## Download
+
+Go to the [latest releases](https://github.com/drittich/finddupes2/releases/latest) and download the correct version for your operating system (probably the x64 one).
+
 ## Installation
 
 This relies on the [.NET Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) so you may need to install that first.
