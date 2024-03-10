@@ -1,6 +1,6 @@
 # finddupes
 
-A Windows GUI utility for finding an optionally deleting duplicate files.
+A Windows GUI utility for finding and optionally deleting duplicate files.
 
 ![image](https://github.com/drittich/finddupes2/assets/1222810/73bdf3b6-dc07-4331-b265-0ecdfc6765ef)
 
