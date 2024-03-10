@@ -145,7 +145,7 @@
             this.chkMatchNames.Name = "chkMatchNames";
             this.chkMatchNames.Size = new System.Drawing.Size(92, 17);
             this.chkMatchNames.TabIndex = 7;
-            this.chkMatchNames.Text = "Match Names";
+            this.chkMatchNames.Text = "Also Match Names";
             this.chkMatchNames.UseVisualStyleBackColor = true;
             // 
             // lblTotalFileCount
